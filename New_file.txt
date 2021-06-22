@@ -1,5 +1,0 @@
-Rose : 4
-lilly : 5
-lotus : 5
-Apples : 6
-sunflower : 9
