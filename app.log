@@ -1,0 +1,328 @@
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 4)]
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss', 'dhn', 'rht', 'dhn', 'vrt', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs-dhN-rhT-dhN-vrT-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 4)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss', 'dhn', 'rht', 'dhn', 'vrt', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs-dhN-rhT-dhN-vrT-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 4)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss', 'dhn', 'rht', 'dhn', 'vrt', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs-dhN-rhT-dhN-vrT-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 4)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss', 'dhn', 'rht', 'dhn', 'vrt', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs-dhN-rhT-dhN-vrT-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 4)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss', 'dhn', 'rht', 'dhn', 'vrt', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs-dhN-rhT-dhN-vrT-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 4)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss', 'dhn', 'rht', 'dhn', 'vrt', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs', 'dhN', 'rhT', 'dhN', 'vrT', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs-dhN-rhT-dhN-vrT-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY;
+vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021;
+AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs;
+dhN;
+rhT;
+dhN;
+vrT;
+mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY;
+vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021;
+AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs;
+dhN;
+rhT;
+dhN;
+vrT;
+mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY;
+vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021;
+AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs;
+dhN;
+rhT;
+dhN;
+vrT;
+mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY.;
+vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021.;
+AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs.;
+dhN.;
+rhT.;
+dhN.;
+vrT.;
+mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY.-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021.-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs.-dhN.-rhT.-dhN.-vrT.-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY.-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021.-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs.-dhN.-rhT.-dhN.-vrT.-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY.-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021.-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs.-dhN.-rhT.-dhN.-vrT.-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY.-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021.-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs.-dhN.-rhT.-dhN.-vrT.-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY.-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021.-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs.-dhN.-rhT.-dhN.-vrT.-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY;
+vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021;
+AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs;
+dhN;
+rhT;
+dhN;
+vrT;
+mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:.Trv;mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY.-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021.-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs.-dhN.-rhT.-dhN.-vrT.-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY.-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021.-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs.-dhN.-rhT.-dhN.-vrT.-mdM-
+INFO:root:logging done !!
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\app.log'
+INFO:root:'C:\Users\HP\PycharmProjects\day3oop\unique_filename'
+INFO:root:This will get logged to a file
+INFO:root:The number of words having prefix with “To” in the input file:3
+INFO:root:The number of words ending with 'ing' in the input file:2
+INFO:root:most common word is :[('virat', 3)]
+INFO:root:The palindrome is:madam
+INFO:root:Appended the splitted word :['vrt', 'vrt', 's', 'th', 'bst', 'btsmn', 'tdy.', 'vrt', 'prvd', 't', 'by', 'prfrmng', 'wll', 'frm', '2008', 't', '2021.', 'Anybdy', 'cn', 'cm', 'tmrrw,bt', 'nbdy', 'wll', 'b', 'rchng', 'hs', 'clss.', 'dhn.', 'rht.', 'dhn.', 'vrt.', 'mdm']
+INFO:root:After capitalizing 3rd letter :['vrT', 'vrT', 's', 'th', 'bsT', 'btSmn', 'tdY.', 'vrT', 'prVd', 't', 'by', 'prFrmng', 'wlL', 'frM', '2008', 't', '2021.', 'AnYbdy', 'cn', 'cm', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'rcHng', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:After capitalizing every 5th word:['vrT', 'vrT', 's', 'th', 'BST', 'btSmn', 'tdY.', 'vrT', 'prVd', 'T', 'by', 'prFrmng', 'wlL', 'frM', '2008', 'T', '2021.', 'AnYbdy', 'cn', 'CM', 'tmRrw,bt', 'nbDy', 'wlL', 'b', 'RCHNG', 'hs', 'clSs.', 'dhN.', 'rhT.', 'dhN.', 'vrT.', 'mdM']
+INFO:root:after swapping with blank space : 
+:vrT-vrT-s-th-BST-btSmn-tdY.-vrT-prVd-T-by-prFrmng-wlL-frM-2008-T-2021.-AnYbdy-cn-CM-tmRrw,bt-nbDy-wlL-b-RCHNG-hs-clSs.-dhN.-rhT.-dhN.-vrT.-mdM-
+INFO:root:logging done !!

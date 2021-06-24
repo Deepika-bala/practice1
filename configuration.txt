@@ -1,0 +1,6 @@
+[Input File]
+path1='C:\Users\HP\PycharmProjects\day3oop\Cricket.txt'
+[Log File]
+path2='C:\Users\HP\PycharmProjects\day3oop\app.log'
+[Output File]
+path3='C:\Users\HP\PycharmProjects\day3oop\unique_filename'
